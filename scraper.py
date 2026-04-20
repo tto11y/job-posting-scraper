@@ -7,6 +7,16 @@ from playwright_stealth import Stealth
 from bs4 import BeautifulSoup
 
 URLs = [
+    "https://www.stepstone.de/stellenangebote--Spezialist-in-Application-Development-Fullstack-Koeln-HDI-AG--13855176-inline.html?rltr=103_3_25_seorl_m_0_0_0_0_0_0",
+    "https://www.stepstone.de/stellenangebote--Senior-Cloud-Solution-Architekt-w-m-d-Frankfurt-am-Main-DekaBank-Deutsche-Girozentrale--13851248-inline.html?rltr=106_6_25_seorl_m_0_0_0_0_0_0",
+    "https://www.stepstone.de/stellenangebote--Expert-DevSecOps-DXL-m-w-d-Duesseldorf-Unterfoehring-Vodafone-GmbH--13914161-inline.html?rltr=112_12_25_seorl_m_0_0_0_0_0_0",
+    "https://www.stepstone.de/stellenangebote--Senior-Backend-Entwickler-m-w-d-Osnabrueck-Hamburg-Hellmann-Worldwide-Logistics-SE-Co-KG--13820969-inline.html?rltr=121_21_25_seorl_m_0_0_0_0_0_0",
+    "https://www.stepstone.de/stellenangebote--Senior-Software-Developer-w-m-d-Backend-Koeln-Cologne-Intelligence--13678170-inline.html?rltr=125_125_25_seorl_m_0_0_0_0_1_0",
+    "https://www.stepstone.de/stellenangebote--DevOps-Engineer-all-genders-Berlin-gematik-GmbH--13764167-inline.html?rltr=3_3_25_crl_m_0_0_0_0_0_0&cs=true",
+    "https://www.stepstone.de/stellenangebote--Software-Engineer-fuer-Datenprojekte-Karlsruhe-Koeln-Muenchen-Hamburg-Stuttgart-Berlin-Erlangen-inovex-GmbH--10481680-inline.html?rltr=141_16_25_seorl_m_0_0_0_0_0_0",
+    "https://www.stepstone.de/stellenangebote--Fullstack-eBanking-Entwickler-Developer-w-m-d-bundesweit-z-B-Hamburg-Berlin-Koeln-Bonn-Frankfurt-am-Main-Stuttgart-Muenchen-SYNGENIO-AG--13806180-inline.html?rltr=142_17_25_seorl_m_0_0_0_0_1_0",
+    "https://www.stepstone.de/stellenangebote--Senior-Software-Engineer-Cloud-AI-Integration-m-w-d-Muenchen-TekkMinds-AG--13748644-inline.html?rltr=151_1_25_seorl_m_0_0_0_0_1_0",
+    "https://www.stepstone.de/stellenangebote--Senior-Software-Developer-m-w-d-Alzenau-Boppard-Buchholz-Dortmund-Hamburg-Ehrhardt-Partner-Group--12760367-inline.html?rltr=158_8_25_seorl_m_1_0_0_0_0_0",
     # ... add all URLs here
 ]
 
